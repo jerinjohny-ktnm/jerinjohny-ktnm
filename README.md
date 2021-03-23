@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jerinjohny-ktnm" alt="Jerin" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jerinjohny-ktnm&column=3&margin-w=15&margin-h=15" alt="Jerin" /></a> </p>
 
 
 
